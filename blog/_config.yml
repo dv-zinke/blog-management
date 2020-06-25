@@ -98,4 +98,6 @@ theme: yearnD
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/dv-zinke/dv-zinke.github.io
+  branch: master
